@@ -1,4 +1,4 @@
-# ![logo][/assets/PowerShell.svg] PowerShell
+# ![Powershell Logo](/assets/PowerShell.svg) PowerShell
 
 # Active-Directory-Scripts
 Various Active Directory Scripts
